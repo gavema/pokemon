@@ -1,0 +1,145 @@
+body{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #BFCAEC;
+    padding: 1px;
+    width: auto;
+    height: auto;
+    margin:10%;
+    flex-wrap: wrap;
+    font-size: 17px;
+    font-family: 'Nunito', sans-serif;
+ }
+.pokemonCard1 {
+    display: flex;
+    height:190px;
+    width: 190px;
+    border-radius: 10%;
+    background-color: #82C6B0;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    flex-direction: column;
+}
+.pokemonCard2 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%;
+    background-color:  #82C6B0;;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    flex-direction: column;
+} 
+.pokemonCard3 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%; 
+    background-color:#82C6B0;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    flex-direction: column;   
+} 
+.pokemonCard4 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%; 
+    background-color: #F5DBD5;
+    align-items: center;
+    justify-content: space-evenly; 
+    margin: 2px;
+    flex-direction: column;  
+} 
+.pokemonCard5 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%; 
+    background-color: #F1CFC8;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    flex-direction: column;   
+} 
+.pokemonCard6 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%; 
+    background-color: #FEF9E7;
+    align-items: center;
+    justify-content: space-evenly; 
+    margin: 2px;
+    flex-direction: column; 
+} 
+.pokemonCard7 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%; 
+    background-color: #D6EAF8;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    flex-direction: column;   
+} 
+.pokemonCard8 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%; 
+    background-color: #D6EAF8;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    flex-direction: column;   
+} 
+.pokemonCard9 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%; 
+    background-color: #D6EAF8;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    flex-direction: column;
+} 
+.pokemonCard10 {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    border-radius: 10%; 
+    background-color: #F5CBA7;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 2px;
+    flex-direction: column;  
+} 
+.poke-back{
+    display: flex;
+    height: 50%;
+    width: 50%;
+  
+    border-radius: 50%;
+    background-color: #E2E9E5;
+    align-items: center;
+    justify-content: center;
+}
+.pokeinfo {
+    text-align: center;
+}
+.poke-data {
+    color: grey;
+}
